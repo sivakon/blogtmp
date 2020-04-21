@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Sivaram Konanki</title>
+  <description><![CDATA[My website using Franklin
+]]></description>
+  <link>https://sivakon.github.io/</link>
+  <atom:link href="https://sivakon.github.io/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Gaussian Process and Bayesian optimization</title>
+    <link>https://sivakon.github.io/gp/index.html</link>
+    <description><![CDATA[Guassian process and Bayesian optimization: <img src="https://upload.wikimedia.org/wikipedia/en/3/32/Rick_and_Morty_opening_credits.jpeg" alt="" />
+<br><a href="https://sivakon.github.io/gp/index.html">Read more</a>]]></description>
+    <guid>https://sivakon.github.io/gp/index.html</guid>
+    <pubDate>Tue, 21 Apr 2020 00:00:00 UT</pubDate>
+  </item>
+</channel>
+</rss>
